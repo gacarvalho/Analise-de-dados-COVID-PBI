@@ -16,4 +16,4 @@
 
 
 ---
-![Sobre: Gabriel Carvalho](https://github.com/gacarvalho/Projeto-PBI-Covid-19/blob/main/Fundo.cdr/background-interfaces-PBI-COVID.png?raw=true)
+![Sobre: Gabriel Carvalho](https://github.com/gacarvalho/Analise-de-dados-COVID-PBI/blob/main/Fundo.cdr/background-interfaces-PBI-COVID.png?raw=true)
